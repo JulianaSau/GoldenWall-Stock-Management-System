@@ -1,0 +1,2 @@
+# GoldenWall Stock Management System
+ 
